@@ -17,6 +17,7 @@ log.txt
 coverage/
 dist/
 node_modules/
+resources/
 tmp/
 temp/
 hooks/
